@@ -1,4 +1,4 @@
-document.getElementById('testingAMP').href= "#developer=1";
+document.getElementById('testingAMP').href= "#development=1";
 
 var url = 'http://www.check.com/123';
 var id = url.substring(url.lastIndexOf('/') + 1);
